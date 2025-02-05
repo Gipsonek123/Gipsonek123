@@ -5,9 +5,9 @@
 
 - 💼 I'm looking for an internship/a job
 
-- 👨‍💻 I'm a member of the student Data Science club <a href="http://datascience.polsl.pl/">
+- 👨‍💻 I'm a member of the student Data Science club <a href="http://datascience.polsl.pl/">Data Science Club</a>
 
-- 📄 I have one published article <a href="https://ceur-ws.org/Vol-3885/paper39.pdf"/>
+- 📄 I have one published article <a href="https://ceur-ws.org/Vol-3885/paper39.pdf">Read my article</a>
 
 - 🏐 I'm interested in sports, I play volleyball
 

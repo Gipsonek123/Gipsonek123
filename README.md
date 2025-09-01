@@ -13,7 +13,7 @@
 
 - 🏐 I'm interested in sports, I play volleyball
 
-- 📫 How to reach me **gipsonek20@gmail.com**
+- 📫 How to reach me **kamiljedrzkiewicz@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3
 <p align="left">
